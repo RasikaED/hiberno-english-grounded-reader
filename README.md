@@ -60,7 +60,7 @@ If you use this code, please cite it:
 
 > Edirisinghe, R., O'Sullivan, J., Minghim, R., Murphy, Ó., & Ó Gallchoir, C. (2026).
 > *hiberno-english-grounded-reader* [Computer software].
-> https://github.com/mrHendrixSL/hiberno-english-grounded-reader
+> https://github.com/RasikaED/hiberno-english-grounded-reader
 
 See `CITATION.cff` for the machine-readable version. To cite the
 dataset itself, use the citation given in the Zenodo deposit's own

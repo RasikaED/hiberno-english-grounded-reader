@@ -22,7 +22,7 @@ authors:
   - family-names: Ó Gallchoir
     given-names: Cliona
     affiliation: University College Cork
-repository-code: "https://github.com/mrHendrixSL/hiberno-english-grounded-reader"
+repository-code: "https://github.com/RasikaED/hiberno-english-grounded-reader"
 license: MIT
 abstract: >-
   Extraction pipeline, schema definitions, and evaluation code for a
