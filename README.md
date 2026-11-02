@@ -9,7 +9,7 @@ This repository is the public, reconstructed companion to:
 - the **journal article** describing the method (citation / DOI to
   follow once published), and
 - the **dataset** itself, deposited on Zenodo under CC BY-NC-SA 4.0
-  (DOI to follow once minted) — the structured output this code
+  (DOI: 10.5281/zenodo.23882722) — the structured output this code
   produces, not reproduced here.
 
 It does not contain the copyrighted source text. The source edition is:
