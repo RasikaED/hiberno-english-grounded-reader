@@ -52,12 +52,13 @@ representative part, under any licence granted by this repository.
 - James O'Sullivan (University College Cork)
 - Rosane Minghim (University College Cork)
 - Órla Murphy (University College Cork)
+- Cliona Ó Gallchoir (University College Cork)
 
 ## Citation
 
 If you use this code, please cite it:
 
-> Edirisinghe, R., O'Sullivan, J., Minghim, R., & Murphy, Ó. (2026).
+> Edirisinghe, R., O'Sullivan, J., Minghim, R., Murphy, Ó., & Ó Gallchoir, C. (2026).
 > *hiberno-english-grounded-reader* [Computer software].
 > https://github.com/mrHendrixSL/hiberno-english-grounded-reader
 
